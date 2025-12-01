@@ -1,1 +1,2 @@
-console.log('Hello Typescript');
+const msg: string = 'Hello Typescript';
+console.log(msg);
